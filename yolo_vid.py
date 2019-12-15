@@ -1,5 +1,5 @@
 # USAGE
-# python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco
+# python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi
 
 # import the necessary packages
 import numpy as np
