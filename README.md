@@ -28,6 +28,8 @@ Hardware used was:
 Intel(R) Core(TM) i5-4210U CPU @ 1.70ghz, with 8.00 GB of RAM  
 Average processing time was 2 seconds per frame.  
 To achieve REAL Time object detection, one would need to have an Nvidia card and use CUDA as [this](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection) for example.  
+
+Click the videos below to see examples of the output  
 [![Watch the video](https://img.youtube.com/vi/rnOFH0mKXPQ/hqdefault.jpg)](https://www.youtube.com/watch?v=rnOFH0mKXPQ)
 [![Watch the video](https://img.youtube.com/vi/qroXchzbG-g/hqdefault.jpg)](https://www.youtube.com/watch?v=qroXchzbG-g)
 [![Watch the video](https://img.youtube.com/vi/kpcbC94QhrY/hqdefault.jpg)](https://www.youtube.com/watch?v=kpcbC94QhrY)
